@@ -5,11 +5,13 @@ Frontend UI project of CBIT E-Learning Platform built using HTML and CSS. This p
 The project represents a simple UI design of a CBIT E-Learning Platform website.  
 It includes:
 
-- Navigation bar
-- Hero section
-- Login form UI
-- Course cards section
-- Footer section
+## Website Sections
+
+- Header Section (Logo, Navigation Menu, Search Bar)
+- Title, Tagline, Join Button
+- Login Panel
+- AI Courses Section
+- Footer Section (Links and Contact Information)
 
  Note: This project focuses only on frontend design.  
 Buttons and login functionality are not connected to any backend.
